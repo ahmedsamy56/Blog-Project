@@ -5,24 +5,24 @@ This is a blog application developed using ASP.NET MVC to solidify my understand
 ## Technologies Used
 
 ### Front-End
-- **HTML:** For structuring the content of the web pages.
-- **CSS:** For styling and enhancing the visual appearance.
-- **JavaScript:** To add interactivity and dynamic behavior to the application.
-- **Bootstrap:** For creating a responsive and mobile-friendly layout with pre-built components.
+- **HTML**
+- **CSS**
+- **JavaScript** 
+- **Bootstrap** 
 
 ### Back-End
-- **C#:** For server-side logic and application functionality.
-- **ASP.NET Core:** For building the web application using the MVC pattern.
-- **MVC Pattern:** To separate concerns and structure the application for easier maintenance.
-- **MS SQL Server:** For database management and data persistence.
+- **C#**
+- **ASP.NET Core** 
+- **MVC Pattern** 
+- **MS SQL Server**
 
 ### Design Patterns
-- **Repository Pattern:** To abstract data access logic and provide a clean separation between the business logic and data layer.
-- **Unit of Work Pattern:** To manage transactions and maintain data consistency across multiple operations.
-- **Dependency Injection:** To achieve loose coupling and increase the flexibility and testability of the application.
+- **Repository Pattern**
+- **Unit of Work Pattern** 
+- **Dependency Injection**
 
 ## Architecture
-- **N-Tier Architecture:** The application is structured into multiple layers, including Presentation, Business Logic, and Data Access layers, promoting a clean separation of concerns and enhancing scalability and maintainability.
+- **N-Tier Architecture**
 
 ## Features
 - **CRUD Operations**
